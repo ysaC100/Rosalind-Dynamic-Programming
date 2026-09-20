@@ -1,1 +1,1 @@
-This file goes through the alignment, change of money, DAG probability, longest common sequence, and optimal path problems from Rosalind.
+This repository goes through some Rosalind problems focusing on dynamic programming, sequence alignment, and graph theory. The problems are the alignment, change of money, DAG probability, longest common sequence, and optimal path problems from Rosalind.
